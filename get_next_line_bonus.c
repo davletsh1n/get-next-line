@@ -5,12 +5,12 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: ssandman <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/11/11 17:39:00 by ssandman          #+#    #+#             */
-/*   Updated: 2020/11/15 11:28:09 by ssandman         ###   ########.fr       */
+/*   Created: 2020/11/15 13:09:58 by ssandman          #+#    #+#             */
+/*   Updated: 2020/11/15 13:10:00 by ssandman         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line_bonus.h"
+#include "get_next_line.h"
 
 static int		offset(int i, int fd, char **readed)
 {
