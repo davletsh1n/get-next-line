@@ -1,1 +1,1 @@
-# gnl42 by ssandman 21 school KZN
+# gnl / ssandman 21school KZN
