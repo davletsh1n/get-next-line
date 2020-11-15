@@ -6,7 +6,7 @@
 /*   By: ssandman <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/11/11 17:41:00 by ssandman          #+#    #+#             */
-/*   Updated: 2020/11/11 17:41:00 by ssandman         ###   ########.fr       */
+/*   Updated: 2020/11/15 12:47:37 by ssandman         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,7 @@
 # include <fcntl.h>
 # include <stdlib.h>
 
+int	get_next_line(int fd, char **line);
 size_t	ft_strlen(const char *str);
 char	*ft_strjoin(char const *s1, char const *s2);
 char	*ft_strdup(const char *s1);
