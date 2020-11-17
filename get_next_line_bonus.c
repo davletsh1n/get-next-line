@@ -6,11 +6,11 @@
 /*   By: ssandman <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/11/15 13:09:58 by ssandman          #+#    #+#             */
-/*   Updated: 2020/11/15 13:10:00 by ssandman         ###   ########.fr       */
+/*   Updated: 2020/11/15 14:09:41 by ssandman         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 static int		offset(int i, int fd, char **readed)
 {
